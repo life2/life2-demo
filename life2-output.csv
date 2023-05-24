@@ -1,0 +1,135 @@
+"Room","Type","Patient","Payor","PCP","Admit_Dt","Life2_Score","Pred_Days_Over_GMLOS","Pred_LOS","Readm_Perc","Possible_Dispositions","Open_Actions"
+"CVI-CV05-A","IPT","F****, P*******","Medicare","B******* S","5/14",97,10.5,28.7,20,"LTAC, ARHB",2
+"PCN-CN39-A","IPT","G******, R***","Georgia Medicaid","R**** C","5/7",96,20.1,27.5,3,"HSPC, SNF SRHB",5
+"MSI-MS14-A","IPT","S******, P*****","Medicare","M**** A","5/19",95,11.2,17.2,10,"SNF SRHB, HM",1
+"GS-0037-WD","IPT","F*****, C******","Unitedhealthcare Mcare Ad","F****** G","5/20",93,6.3,12.1,19,"SNF SRHB, HH",1
+"GS-0035-WD","IPT","F********, J****","Unitedhealthcare Mcare Ad","L****** V","4/19",90,37.1,47.2,6,"HH, ARHB",1
+"3N-0310-PR","IPT","V****, R******","Humana Gold Choice","E**** D","4/30",89,23.7,34.6,29,"HH, HM",3
+"PCN-CN41-A","IPT","W******, G***","Medicare","W****** C","5/16",87,8.9,18.9,5,"LTAC, ARHB",3
+"MSI-MS11-A","IPT","S*****, M*****","Ambetter","D***** U","5/24",87,4.9,13.4,15,"LTAC, SNF SRHB",1
+"2S-0239-WD","IPT","G******, D****","Humana Gold Choice","M**** A","5/24",87,3.8,8.9,14,"HH, SNF SRHB",2
+"PCN-CN33-A","IPT","W*****, W*****","Georgia Medicaid","S***** V","5/19",86,8.3,14,9,"HH, HM",2
+"3N-0323-WD","IPT","J******, A****","Medicare","L** C","5/22",86,5.6,10.7,6,"SNF SRHB, HH",1
+"CVS-CV14-A","IPT","T******, Y*****","Champva","D***** U","5/21",82,6.5,13.3,12,"HH, HM",5
+"GS-0040-PR","IPT","P******, M******","Self Pay","M**** L","5/4",81,22.3,32.6,13,"HM, HH",NA
+"MSI-MS03-A","IPT","H*****, D*******","Medicare","M***** A","5/21",80,6.6,16.8,5,"ARHB, HM",2
+"2S-0245-PR","IPT","D****, E*****","Medicare","L** C","5/25",80,3,8,8,"SNF SRHB, HH",2
+"3N-0304-DR","IPT","P*****, R*****","Medicare","J****** J","5/21",77,7.3,12.4,8,"HH, HM",3
+"2S-0240-PR","IPT","M*****, L****","Wellcare Medicare Hmo","C******** D","5/18",76,8.4,15.9,5,"HH, HM",5
+"GS-0045-PR","IPT","B*****, H****","Medicare","V******** R","5/18",76,4.4,14.9,16,"HM, HH",NA
+"3N-0307-PR","IPT","J******, S*******","Georgia Medicaid","D***** U","5/27",75,1.2,6.3,12,"HSPC, HH",2
+"MSI-MS13-A","IPT","H***, R******","Medicare","C***** V","5/20",75,5.5,14.6,4,"HM, HH",3
+"2S-0236-WD","IPT","L*********, G*****","Medicare","C****** C","5/22",75,4.3,10.3,5,"ARHB, HM",NA
+"CVS-CV12-A","IPT","H***, R*****","Wellcare Medicare Hmo","H******** J","5/18",75,7.9,15,6,"HM, HH",3
+"CVS-CV13-A","IPT","M*******, W******","Unitedhealthcare Mcare Ad","H***** H","5/28",75,7.3,12.7,8,"HH, LTAC",2
+"3S-0332-PR","IPT","R******, K****","Self Pay","P**** Y","4/28",74,27.3,35.2,5,"HM, HH",NA
+"PCN-CN27-A","IPT","B******, P******","Wellcare Medicare Hmo","D***** U","5/14",71,13.2,18.6,2,"HH, HM",2
+"GS-0038-WD","IPT","B****, W******","Caresource","D***** U","5/24",70,3.3,8.9,20,"HH, HM",2
+"2S-0238-WD","IPT","G*****, M******","Medicare","C******** D","5/22",69,3.9,9.9,7,"HM, HH",1
+"PCS-CS04-A","IPT","W*****, W******","Veterans Administration","M***** S","5/23",69,3.8,8.4,7,"HH, HM",3
+"CVS-CV19-A","IPT","B***, M*****","Aetna Medicare Hmo","K******** D","5/25",69,4.9,9.9,3,"SNF SRHB, HM",3
+"3N-0302-WD","IPT","M***, K***","Unitedhealthcare Mcare Ad","C******** D","5/27",69,3.8,9.4,10,"SNF SRHB, HH",2
+"MSI-MS10-A","IPT","E*****, G*****","Bc Anthem Medicare Advant","B****** D","5/28",68,6,11.5,6,"LTAC, HH",1
+"CVS-CV11-A","IPT","K***, A***","Medicare","W****** C","5/22",67,3.2,8.9,19,"HM, HH",1
+"CVS-CV20-A","IPT","J******, G*****","Medicare","B****** M","5/18",65,8.4,13.2,4,"HM, HH",2
+"PCN-CN34-A","IPT","C*****, F****","Medicare","S********** G","5/25",65,1.5,5.8,9,"HH, HM",1
+"PCS-CS03-A","IPT","W*****, A****","Unitedhealthcare Mcare Ad","S******** D","5/22",65,4.8,10.4,3,"HH, HM",2
+"3S-0334-WD","IPT","S*********, A**","Self Pay","O* J","5/25",63,1.1,6,7,"HM, Psych",NA
+"GS-0048-WD","IPT","G******, P*******","Medicare","J******* M","5/26",62,1.2,7.4,5,"HH, ARHB",3
+"GS-0036-WD","IPT","B****, P******","Wellcare Medicare Hmo","C***** F","5/23",62,2.3,7.7,7,"HM, HH",1
+"PCN-CN36-A","IPT","K****, M*****","Medicare","B****** D","5/23",61,1.8,7.3,4,"HH, HM",2
+"CVS-CV17-A","IPT","B*****, D****","Unitedhealthcare Mcare Ad","F****** G","5/16",61,10.1,15.6,2,"HM, HSPC",4
+"PCS-CS24-A","IPT","Q*****, W*****","Unitedhealthcare Mcare Ad","L**** J","5/17",60,8.8,14.6,2,"HM, HH",1
+"3S-0348-DR","IPT","B****, D******","Medicare","C***** B","5/25",59,3,7,4,"HH, HM",4
+"PCS-CS05-A","IPT","R*******, T*****","Self Pay","S***** V","5/24",58,2.2,7.9,6,"HM, HH",1
+"CVI-CV01-A","IPT","H******, T****","Medicare","S***** M","5/21",58,1.7,13.1,5,"HM, HH",NA
+"3N-0303-WD","IPT","B*****, K*****","Georgia Medicaid","T******* F","5/23",56,6.2,11.5,2,"HM, HH",1
+"MSI-MS04-A","IPT","S********, D*****","Humana Gold Choice","P**** M","5/28",54,1.1,5,9,"HH, HM",1
+"PCN-CN43-A","IPT","S*******, C********","Medicare","R******** W","5/26",54,2.6,6.7,6,"HH, HM",1
+"PCS-CS17-A","IPT","W******, W*****","Medicare Part B Only Admi","W****** D","5/27",54,1.2,6,8,"HH, HM",2
+"PCS-CS02-A","IPT","P*****, N****","Medicare","J****** J","5/24",53,3,7.9,1,"HM, ARHB",2
+"PCN-CN38-A","IPT","W*******, J*****","Unitedhealthcare Mcare Ad","C****** S","5/23",53,2.2,7.2,3,"HM, HH",2
+"3S-0331-PR","IPT","B****, T****","Self Pay","D***** U","5/25",53,1.5,5.6,5,"HM, HH",2
+"PCS-CS08-A","IPT","B********, T***","Humana Gold Choice","A***** E","5/23",52,3.1,8.3,3,"HM, HH",1
+"MSI-MS07-A","IPT","K********, J****","Blue Cross Federal","A******** K","5/25",52,2.7,8.2,4,"HM, HH",1
+"PCS-CS19-A","IPT","H****, F******","Unitedhealthcare Medicare","W******* L","5/26",52,2.7,7.2,3,"HH, ARHB",3
+"GS-0043-WD","IPT","K*****, J*****","Blue Cross Of Georgia Hmo","D***** U","5/27",49,-0.5,3.6,16,"HM, ARHB",2
+"2S-0237-WD","IPT","P****, B*****","Wellcare Medicare Hmo","A****** D","5/26",49,1.6,5.9,5,"HM, HH",1
+"MSI-MS05-A","IPT","W********, J***","Medicare","E***** L","5/23",48,0.1,9,2,"HM, HH",NA
+"3N-0305-PR","IPT","B****, R***","Unitedhealthcare Mcare Ad","J**** J","5/25",47,1.7,6,3,"HM, HH",2
+"3S-0333-DR","IPT","H*****, L*****","Humana Gold Choice","W***** H","5/21",46,4.3,9.8,1,"HM, HH",3
+"PCN-CN25-A","IPT","H*****, M****","Medicare","D***** U","5/26",46,0.7,4.6,4,"HH, HM",1
+"3N-0309-PR","IPT","L****, L****","Bc Alabama","A******** K","5/19",46,6.7,11.6,1,"HM, HH",1
+"3S-0337-WD","IPT","M*****, C******","Medicare","M**** A","5/26",45,0.5,4,5,"HM",2
+"PCN-CN40-A","IPT","W*******, G*****","Medicare","W***** H","5/25",45,1.6,5.8,3,"HM, HH",3
+"3S-0344-WD","IPT","F*****, M*****","Medicare","S****** C","5/28",44,1.8,5.8,1,"SNF SRHB, HM",1
+"2S-0243-WD","IPT","B*****, J****","Blue Cross Of Georgia Afl","N** H","5/26",44,1.9,6.7,4,"HH, HM",1
+"MSI-MS12-A","IPT","C****, T****","Self Pay","D***** U","5/24",43,2.1,10.3,3,"HM",1
+"CVI-CV04-A","IPT","G******, N******","Blue Cross Of Georgia Hmo","R******** W","5/25",42,-2.2,8.4,4,"HM, HH",1
+"3N-0304-WD","IPT","T****, J****","Unitedhealthcare Mcare Ad","D***** U","5/28",42,0.1,4,4,"HM, ARHB",1
+"3S-0340-PR","IPT","F*****, D******","Medicare","S***** V","5/27",41,-1.3,3.4,12,"HM, HH",NA
+"PCN-CN31-A","IPT","D****, S******","Humana Gold Choice","W****** C","5/27",41,-0.1,3.2,4,"HM, HH",2
+"3N-0312-PR","IPT","L****, F****","Unitedhealthcare Mcare Ad","J****** J","5/27",41,0.5,5.8,4,"HM, HH",2
+"3N-0320-PR","IPT","B*****, S*****","Medicare","W***** K","5/28",40,-1.2,3.9,4,"HM, HH",1
+"2S-0247-PR","IPT","L*********, L***","Medicare","C****** C","5/25",40,0.4,5.1,1,"HM, HH",1
+"MSI-MS18-A","IPT","S****, W*****","Humana Gold Choice","D***** U","5/26",39,1.7,7.5,3,"HM, HSPC",3
+"PCS-CS13-A","IPT","C******, J****","Humana Gold Choice","P**** P","5/23",37,2.1,7.4,0,"HH, HM",2
+"2S-0234-WD","IPT","R*****, C******","United Healthcare","B****** M","5/26",37,1,5.6,1,"HM, LTAC",NA
+"3S-0346-PR","IPT","M*****, R******","Medicare","R***** S","5/25",37,1,5.3,1,"HM, HH",2
+"MSI-MS15-A","IPT","K***, M******","Aetna Medicare Hmo","P**** Y","5/28",36,-0.5,3.3,5,"HM",1
+"CVS-CV18-A","IPT","M*****, S*****","Medicare","W******* L","5/23",36,1.8,7.2,1,"HM",2
+"PCS-CS21-A","IPT","H*****, H*****","Unitedhealthcare Mcare Ad","R**** G","5/27",35,-0.7,3.7,5,"HH, HM",2
+"PCS-CS09-A","IPT","T*****, C**","Blue Cross Of Georgia Hmo","L**** J","5/28",35,-1.5,2.2,7,"HM",NA
+"CVS-CV19-A","IPT","C****, P***","Unitedhealthcare Mcare Ad","S********** G","5/23",35,-0.3,9.6,2,"HM, HH",2
+"3S-0343-WD","IPT","I*****, S****","Medicare","P******* J","5/28",34,-0.7,2.6,1,"ARHB, HM",3
+"PCS-CS22-A","IPT","B*****, K******","Medicare","R***** S","5/28",34,-1.4,3.4,1,"SNF SRHB, HM",1
+"GS-0033-WD","IPT","M********, W****","Medicare","S********** G","5/28",33,-1.8,2.1,14,"HM",NA
+"3S-0338-WD","IPT","S*******, F******","Medicare","D***** U","5/28",32,-1.4,3,3,"HM",NA
+"3N-0311-PR","IPT","C*****, J******","Georgia Medicaid","D***** U","5/27",32,1,4.9,1,"HM, LTAC",NA
+"3N-0322-PR","IPT","S***, D*****","Medicare","D***** U","5/26",31,0.4,4.8,3,"HM",2
+"3N-0308-PR","IPT","G******, G*****","Georgia Medicaid","S***** J","5/27",31,1.4,5.4,2,"HH, HM",2
+"NSY-0019-AA","IPT","B******, B**","Wellcare Of Georgia","D***** U","5/28",31,-5.9,1.1,1,"Tx, HSPC",1
+"PCN-CN30-A","IPT","D*******, V*******","Bc Anthem Medicare Advant","B******* S","5/26",31,1,5.3,2,"HM, HH",2
+"PCN-CN26-A","IPT","L********, K**","Medicare","D***** U","5/26",30,0.3,5.9,3,"HM",1
+"GS-0047-PR","IPT","W*********, H****","Blue Cross Out Of State","C***** F","5/26",29,1,4.1,1,"HM",NA
+"NSY-0023-AA","IPT","K******, G***","Tricare","D***** U","5/28",29,-2.6,1.1,1,"Tx, HSPC",1
+"PCS-CS20-A","IPT","S****, C*******","Self Pay","D***** U","5/27",28,-0.1,4.3,1,"HM, LTAC",NA
+"MSI-MS16-A","IPT","B******, K*****","Champva","C***** B","5/28",28,-1.5,3.3,8,"HM",NA
+"PCS-CS16-A","IPT","G***, K******","Unitedhealthcare Mcare Ad","F******-******* K","5/26",28,0.9,4.9,1,"HM",1
+"PCN-CN37-A","IPT","H***, R*****","Medicare","H***** H","5/26",27,0.3,4.4,1,"HH, HM",2
+"PCN-CN32-A","IPT","T*****, R****","Georgia Medicaid","R*** A","5/27",27,-0.5,3.1,3,"HM",1
+"3N-0306-PR","IPT","C******, J******","Medicare","L** C","5/26",27,1.2,4.6,1,"HM, HH",1
+"PCS-CS10-A","IPT","D*****, W*****","Wellcare Medicare Hmo","B***** B","5/27",26,0.1,3.7,2,"HM",2
+"PCN-CN42-A","IPT","L*****, C*****","Self Pay","D***** U","5/26",26,0.9,5,0,"HM, LTAC",1
+"3N-0301-DR","IPT","D******, P*******","Medicare","D**** N","5/26",25,-0.1,4.1,1,"HM",2
+"PCS-CS01-A","IPT","K****, B****","Medicare","C******** D","5/28",24,1.3,5,0,"ARHB, HM",1
+"RIC-R002-01","IPT","D*****, R****","Medicare","D***** U","5/28",24,-0.9,4.1,1,"HM, HSPC",1
+"NSY-0022-AA","IPT","R*******, G***","Peachstate Health Plan","D***** U","5/28",24,-6,1.1,0,"Tx, HSPC",1
+"2S-0248-PR","IPT","M*****, E****","Medicare","D***** J","5/27",24,-1.1,4,1,"HM",2
+"PCS-CS11-A","IPT","A*****, Y*****","Blue Cross Anthem","R*** A","5/27",23,-0.4,3,1,"HM",1
+"NSY-0021-AA","IPT","T******, G***","Amerigroup","D***** U","5/26",21,-4,3.2,0,"Tx, HSPC",NA
+"3S-0339-WD","IPT","H***, R******","Medicare","H******** J","5/26",21,-0.3,4.4,0,"HM",2
+"PCS-CS14-A","IPT","T*****, E********","Wellcare Medicare Hmo","S**** S","5/26",20,0.6,4.1,0,"HH, HM",2
+"PCN-CN28-A","IPT","P*******, D****","Foreign Service Benefit P","P***** C","5/27",19,-0.2,2.4,1,"HM, HH",2
+"NSY-0017-AA","IPT","R*******, B**","Blue Cross Anthem","D***** U","5/26",19,-0.7,3.2,0,"Tx, HSPC",NA
+"CVI-CV03-A","IPT","R**********, J*****","Veterans Administration","T******* B","5/28",18,-2.1,3.1,1,"HM, HH",1
+"3S-0335-WD","IPT","E******, W*****","United Healthcare","E****** M","5/27",18,-0.3,3.2,1,"HM",1
+"NSY-0020-AA","IPT","B*****, B**","Bc Alabama","D***** U","5/28",18,-2.7,1.2,0,"Tx, HSPC",NA
+"PCS-CS07-A","IPT","H***, C****","Blue Cross Of Georgia Afl","K******** D","5/26",16,1.2,4,0,"HM",NA
+"CVS-CV15-A","IPT","M*******, B****","Medicare","D**** M","5/28",16,-1.3,4.1,0,"HM, HH",2
+"2S-0233-WD","IPT","F*****, E****","Medicare","Z******* J","5/27",15,-0.8,3.1,0,"HM",1
+"2S-0235-WD","IPT","J*******, T****","Blue Cross Out Of State","P***** C","5/28",15,-1.3,2,1,"HM",NA
+"GS-0046-PR","IPT","M****, E**","Medicare","H***** H","5/26",15,-0.2,5.3,0,"HM, HH",2
+"OB-0022-A","IPT","R*******, K****","Peachstate Health Plan","D***** U","5/27",14,-0.5,3.1,1,"HM",NA
+"MSI-MS08-A","IPT","B*****, M******","Self Pay","D***** U","5/27",13,-0.4,4.9,0,"HM",1
+"PCS-CS18-A","IPT","T******, T*****","Humana Gold Choice","C********* W","5/28",12,-1.4,2.7,1,"HM",NA
+"PCN-CN35-A","IPT","P*****, C********","Unitedhealthcare Mcare Ad","E**** D","5/27",12,0.1,3.1,0,"HM",1
+"3S-0345-PR","IPT","R******, E*****","Cigna Ppo","B****** D","5/28",12,-1,2.7,0,"HM",NA
+"MSI-MS17-A","IPT","J******, K******","Medicare","H******* E","5/28",9,-1.1,3.9,0,"HM",NA
+"PCS-CS23-A","IPT","J****, B****","Blue Cross Of Georgia Hmo","T****** L","5/28",8,-1.2,2,0,"HM",NA
+"OB-0017-A","IPT","R*******, S********","Blue Cross Anthem","S***** M","5/26",6,-0.2,3,0,"HM",1
+"OB-0019-A","IPT","B******, K******","Wellcare Of Georgia","D***** U","5/27",6,0,3,0,"HM",NA
+"OB-0023-A","IPT","K******, B******","Tricare","D***** U","5/27",5,-0.2,2.4,0,"HM",NA
+"OB-0016-A","IPT","L***, L******","Blue Cross Of Georgia Hmo","D***** U","5/28",2,-0.5,2.1,0,"HM",NA
+"OB-0021-A","IPT","T******, K*******","Amerigroup","D***** U","5/26",2,-0.5,3.1,0,"HM",NA
+"OB-0020-A","IPT","B*****, G********","Bc Alabama","D***** U","5/28",1,-1.2,2.1,0,"HM",NA
